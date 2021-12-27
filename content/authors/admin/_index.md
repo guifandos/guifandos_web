@@ -1,77 +1,84 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Guillermo Fandos
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Postdoctoral Research Associate
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universität Potsdam (UP)
+  url: "https://www.uni-potsdam.de/en/ibb/"
+- name: Humboldt-Universität zu Berlin (HU)
+  url: "https://www.geographie.hu-berlin.de/de/Members/fandos_guzman_guillermo"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I combine empirical data, fieldwork, and quantitative methods to improve our understanding of how natural and anthropogenic changes influence biodiversity dynamics.
 
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Conservation biology
+- Biogeography	
+- Biodiversity modelling
+- Citizen-Science
+- Movement ecology
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Ecology
+    institution: Complutense University of Madrid
+    year: 2017
+  - course: MsC Conservation Biology
+    institution: Complutense University of Madrid
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc Biology
+    institution: Complutense University of Madrid
+    year: 2011
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/g_fandos
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=8zRbuNgAAAAJ&hl=es&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+  link: https://github.com/guifandos
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a spatial ecologist and conservation scientist with a broad interest in the ecological processes that drive the distribution and abundance of animal populations in space and time. As a mix between a field biologist and a data geek, I am an avid [R](https://www.r-project.org/) user, who enjoys working with large datasets (both researcher-collected and citizen science) while developing and/or implementing new statistical methods to answer pressing questions in spatial ecology and conservation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My interest spans between biogeography, population ecology, genetics and conservation biology. I am particularly interested in analyzing how individual, population and species respond to global change (climate and land-use) across several spatial and temporal scales. My final goal is to advance into a more reliable predictive ecology and, as a consequence, provide critical knowledge to support better biodiversity conservation .
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Much of my work has focused on the ecology and conservation of migratory birds, where I link field surveys, ring-recovery data, and niche modelling techniques to understand the ecology and range dynamics of the species throughout the year. 
+
+I am currently a postdoctoral researcher in the [The Biodiversity Modelling Lab](https://damariszurell.github.io/) in Potsdam, Germany, where I am working on understanding how life history and environment shape dispersal in birds.
+
