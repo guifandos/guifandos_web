@@ -23,7 +23,7 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["10px", "0", "200px", "0"]
 ---
 
 
