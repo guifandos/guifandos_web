@@ -1,0 +1,62 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Size does matter: Passive sampling in urban parks of a regional bat assemblage'
+subtitle: ''
+summary: ''
+authors:
+- Elena Tena
+- Guillermo Fandos
+- Óscar de Paz
+- Roberto de la Peña
+- José Luis Tellería
+tags: []
+categories: []
+date: '2020-04-01'
+lastmod: 2021-12-28T10:23:00+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-12-28T09:22:58.299248Z'
+publication_types:
+- '2'
+abstract: We studied the occurrence of bats in urban parks in the city of Madrid (Spain),
+  and the resulting patterns were compared with bat occurrence in the surrounding
+  region. In this way, we addressed if the presence of individual species in the study
+  parks was positively related to their regional occurrence and the way some geographical
+  and environmental traits affected bat richness and composition in urban parks. We
+  analysed urban parks varying in area, structure and distance to the edge of the
+  town. During two years, bats occurring in parks were sampled using ultrasound detectors.
+  A similar sampling method was carried out for four years in the countryside around
+  the city to detect the regional pool of species. The results show that the occurrence
+  of individual species in urban parks was a reduced sample of the regional pool of
+  species and that there was a positive relationship between the occurrence of species
+  in urban parks and the surrounding countryside. This pattern suggests that the more
+  distributed bats at a regional scale were the most frequent ones in parks within
+  the urban matrix. Park area was the main determinant of bat richness. In addition,
+  bat richness distribution reported a nested pattern of species loss as park area
+  decreased. This suggests that bat occurrence in the study parks can be interpreted
+  as the results of a passive sampling of individual species occurring at the regional
+  scale, and that park size was the main determinant of the species occurrence. We
+  conclude that more proactive approaches to bat conservation could be carried out
+  in order to improve the presence of some rare species in urban parks.
+publication: '*Urban Ecosystems*'
+doi: 10.1007/s11252-019-00913-2
+links:
+- name: URL
+  url: https://doi.org/10.1007/s11252-019-00913-2
+---
