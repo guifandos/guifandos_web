@@ -37,9 +37,9 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
-# Custom links (uncomment lines below)
+# Custom links (uncomment l ines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
