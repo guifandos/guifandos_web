@@ -19,6 +19,9 @@ lastmod: 2021-12-28T10:23:24+01:00
 featured: false
 draft: false
 
+# Display this page in the Featured widget?
+featured: true
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -34,8 +37,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-12-28T09:23:23.172221Z'
-publication_types:
-- '2'
+publication_types: ["3"]
 abstract: Dispersal is a key life-history trait for most species and essential to
   ensure connectivity and gene flow between populations and facilitate population
   viability in variable environments. Despite the increasing importance of range shifts
