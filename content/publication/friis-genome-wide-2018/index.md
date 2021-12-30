@@ -16,7 +16,7 @@ tags:
 - redundancy analysis
 - local adaptation
 - drift
-- isolation by adaptation.
+- isolation by adaptation
 - postglacial expansion
 - selective gradients
 categories: []
@@ -55,7 +55,7 @@ abstract: 'The formation of independent evolutionary lineages involves neutral a
   in humid northern latitudes. We used correlations between genomic and environmental
   variance to test for three specific modes of evolutionary divergence: (a) drift
   in geographic isolation, (b) differentiation along continuous selective gradients
-  and (c) isolation-by-adaptation. We found evidence of strong drift in southern mountains,
+  and (c) isolation by adaptation. We found evidence of strong drift in southern mountains,
   but also signals of local adaptation driven by temperature, precipitation, elevation
   and vegetation, especially when controlling for population history. We identified
   numerous variants under selection scattered across the genome, suggesting that local
