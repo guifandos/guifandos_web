@@ -5,7 +5,7 @@ widget: featured
 
 # This file represents a page section.
 headless: true
-
+active: false  # Activate this widget? true/false
 # Order that this section appears on the page.
 weight: 80
 
@@ -32,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---

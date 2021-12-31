@@ -3,8 +3,8 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Quantitative conservation biogeography
-subtitle:
+title: 
+subtitle: 
 weight: 10  # section position on page
 
 design:
@@ -23,7 +23,10 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["5px", "0", "5px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---
+
+
+
 
 
