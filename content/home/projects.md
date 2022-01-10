@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Project as a lead
+    tag: PI
   - name: Researcher participant
     tag: Partner
-  - name: Other research
-    tag: Demo
+  - name: Ongoing Research Projects
+    tag: current
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

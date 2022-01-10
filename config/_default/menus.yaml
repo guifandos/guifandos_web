@@ -19,9 +19,6 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Post
-    url: '#posts'
-    weight: 60
   - name: Field expeditions
     url: '#experience'
     weight: 90
