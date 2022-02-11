@@ -29,10 +29,9 @@ content:
     tag: '*'
   - name: Tropical
     tag: Tropical forest
-  - name: Researcher participant
-    tag: Partner
-  - name: Ongoing Research Projects
-    tag: current
+  - name: Other
+    tag: other
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
