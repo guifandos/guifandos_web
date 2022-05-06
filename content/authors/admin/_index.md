@@ -78,7 +78,5 @@ I am a spatial ecologist and conservation scientist with a broad interest in the
 
 My interest spans between biogeography, population ecology, genetics and conservation biology. I am particularly interested in analyzing how individual, population and species respond to global change (climate and land-use) across several spatial and temporal scales. My final goal is to advance into a more reliable predictive ecology and, as a consequence, provide critical knowledge to support better biodiversity conservation .
 
-Much of my work has focused on the ecology and conservation of migratory birds, where I link field surveys, ring-recovery data, and niche modelling techniques to understand the ecology and range dynamics of the species throughout the year. 
-
-I am currently a postdoctoral researcher in the [The Biodiversity Modelling Lab](https://damariszurell.github.io/) in Potsdam, Germany, where I am working on understanding how life history and environment shape dispersal in birds.
+I am currently an [MSCA postdoctoral researcher](https://www.una4career.eu) in the Universidad Complutense de Madrid, Spain, where I am working on [INCISE]({{< relref "/projects/incise" >}}) project where I integrate structured monitoring data, citizen science data and cutting-edge quantitative modelling tools to improve our understanding of biodiversity dynamics
 
