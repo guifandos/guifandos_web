@@ -23,12 +23,13 @@ Current teaching:
 **[Master programme "Zoology"](https://www.ucm.es/muz)**. **Universidad Complutense de Madrid** 
 * [Zoología de Vertebrados](https://www.ucm.es/muz/file/guia-docente-zv-2023-2024?ver)
 
-**[Bachelor programme "Biology"](https://biologicas.ucm.es/)**. **Universidad Complutense de Madrid** (2014-2018)
+**[Bachelor programme "Biology"](https://biologicas.ucm.es/)**. **Universidad Complutense de Madrid** 
 * [Zoología](https://biologicas.ucm.es/data/cont/docs/2-2013-02-10-zoologia.pdf) 
 * [Análisis de la biodiversidad animal](http://web.bioucm.es/guiasdocentes&asigp=25)
 
 
 Teaching materials for practicals:
+
 **[Master programme “Ecology, Evolution and Conservation (EEC)"](https://www.uni-potsdam.de/de/mnfakul/studium-und-lehre/master/ecology-evolution-and-conservation)**. **Univ. Potsdam** (2020-2022)
 * MSc module “Experimental design and data analysis” 
 * MSc module [“Macroecology and global change”](https://damariszurell.github.io/EEC-MGC/)
