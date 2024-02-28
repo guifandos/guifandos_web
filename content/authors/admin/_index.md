@@ -10,16 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role:  Assitant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad Complutense de Madrid
   url: "https://www.ucm.es/bee/directorio/?id=29786"
-- name: Universität Potsdam (UP)
-  url: "https://www.uni-potsdam.de/en/ibb/"
-- name: Humboldt-Universität zu Berlin (HU)
-  url: "https://www.geographie.hu-berlin.de/de/Members/fandos_guzman_guillermo"
+
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: I combine empirical data, fieldwork, and quantitative methods to improve our understanding of how natural and anthropogenic changes influence biodiversity dynamics.
@@ -78,7 +76,7 @@ user_groups:
 
 I am a spatial ecologist and conservation scientist with a broad interest in the ecological processes that drive the distribution and abundance of animal populations in space and time. As a mix between a field biologist and a data geek, I am an avid [R](https://www.r-project.org/) user, who enjoys working with large datasets (both researcher-collected and citizen science) while developing and/or implementing new statistical methods to answer pressing questions in spatial ecology and conservation. 
 
-My interest spans between biogeography, population ecology, genetics and conservation biology. I am particularly interested in analyzing how individual, population and species respond to global change (climate and land-use) across several spatial and temporal scales. My final goal is to advance into a more reliable predictive ecology and, as a consequence, provide critical knowledge to support better biodiversity conservation .
+My interest spans between biogeography, population ecology, genetics and conservation biology. I am particularly interested in analyzing how individual, population and species respond to global change (climate and land-use) across several spatial and temporal scales. My final goal is to advance into a more reliable predictive ecology and, as a consequence, provide critical knowledge to support better biodiversity conservation.
 
 I am currently an Assitant Professor at Universidad Complutense de Madrid, Spain, member of the [Evolution and Conservation Research group](https://www.ucm.es/bcveng/). Currently, I am working on [INCISE]({{< relref "/projects/incise" >}}) project where I integrate structured monitoring data, citizen science data and cutting-edge quantitative modelling tools to improve our understanding of biodiversity dynamics
 

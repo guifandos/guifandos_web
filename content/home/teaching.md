@@ -14,6 +14,8 @@ subtitle = ""
 +++
 Teaching and advising students have been important parts of my career. I enjoy interacting with students and young researchers to help them explore scientific knowledge and develop new skills. As environmental concerns grow larger in a rapidly changing world, it is essential to evaluate our actions for biodiversity conservation. Therefore, whether we want science to be credible and useful for citizens, training the next generation of biologist and conservation practitioners becomes more important than ever. I try to use integrated training, with training in methodology, but always that it is possible with some fieldwork experience as part of their program. Collecting data and spending time in the field is essential to understand our study systems, and the collection effort usually gives the student the motivation of using and developing analytical tools to make the best use of the valuable data.
 
+![Group of students](/img/grupo1.jpeg?width=60px&height=10px)
+
 Current teaching:
 
 **[Master programme "Conservation Biology"](https://www.ucm.es/biologia-conservacion)**. **Universidad Complutense de Madrid** 
